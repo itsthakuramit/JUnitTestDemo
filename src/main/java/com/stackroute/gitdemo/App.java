@@ -1,6 +1,6 @@
 package com.stackroute.gitdemo;
 
-// New Edit
+// New
 public class App {
 	public static void main(String[] args) {
 		// Edit by Durai

@@ -1,9 +1,8 @@
 package com.stackroute.gitdemo;
 
-// Edit
-public class App {
+public class TestApp {
 	public static void main(String[] args) {
 		// Edit by Durai
-		System.out.println("Welcome to Java");
+		System.out.println("Welcome to TestApp");
 	}
 }
